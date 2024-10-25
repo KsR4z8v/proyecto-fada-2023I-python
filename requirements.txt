@@ -1,0 +1,10 @@
+iniconfig==2.0.0
+linecache2==1.0.0
+numpy==1.25.0
+packaging==23.1
+pluggy==1.2.0
+pytest==7.4.0
+ruff==0.0.276
+six==1.16.0
+traceback2==1.4.0
+unittest2==1.1.0
